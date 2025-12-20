@@ -19,6 +19,9 @@ La región de Piura es altamente vulnerable a eventos de sequía, los cuales afe
 -AlphaEarth Embeddings: Facilita la recomendación de parcelas agricolas. 
 
 #Imagenes  de capas de GEE
+-Naranja: Zonas con Sequía.
+-Rojo:    Zonas con estrés hídrico.
+-Verde:   Parcelas saludables
 ![Imagnes de capas de GEE](ImagenesGEE/ImagenGEE.png)
 
 #Imagenes de Recomendación de Parcelas en buen estado 
