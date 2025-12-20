@@ -18,6 +18,8 @@ La región de Piura es altamente vulnerable a eventos de sequía, los cuales afe
 -FAO GAUL 2024: Proporciona los limites administrativos necesarios para delimitar la región de Piura.
 -AlphaEarth Embeddings: Facilita la recomendación de parcelas agricolas. 
 
-#Imagenes 
+#Imagenes  de capas de GEE
 ![Imagnes de capas de GEE](ImagenesGEE/ImagenGEE.png)
+
+#Imagenes de Recomendación de Parcelas en buen estado 
 ![Recomendación de Parcelas en buen estado](ImagenesGEE/ParcelasRecomendadas.png)
