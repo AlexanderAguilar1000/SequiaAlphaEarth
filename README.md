@@ -17,3 +17,7 @@ La región de Piura es altamente vulnerable a eventos de sequía, los cuales afe
 -ESA World Cover 2021: Se utiliza para identificar y enmascarar exclusivamente áreas agricolas.
 -FAO GAUL 2024: Proporciona los limites administrativos necesarios para delimitar la región de Piura.
 -AlphaEarth Embeddings: Facilita la recomendación de parcelas agricolas. 
+
+#Imagenes 
+![Imagnes de capas de GEE](ImagenesGEE/ImagenGEE.png)
+![Recomendación de Parcelas en buen estado](ImagenesGEE/ParcelasRecomendadas.png)
