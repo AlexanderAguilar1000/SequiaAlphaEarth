@@ -62,7 +62,7 @@ var sample = s2_hist.sample({
   seed: 42,
   geometries: false
 });
-//OJO      CORRER PERCENTIL POR PERCENTIL NO TODOS AL MISMO TIEMPO CALCULO 1 Y LOS DEMAS COMENTALOS 
+//OJO      CORRER PERCENTIL POR PERCENTIL NO TODOS AL MISMO TIEMPO CALCULO 1 Y LOS DEMAS COMENTALOS (Importante IIMPORTANTE)
 // Lista de valores NDVI para percentiles
 var sampleList = sample.aggregate_array('NDVI');
 
