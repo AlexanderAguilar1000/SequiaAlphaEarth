@@ -62,8 +62,10 @@ var sample = s2_hist.sample({
   seed: 42,
   geometries: false
 });
-//OJO      CORRER PERCENTIL POR PERCENTIL NO TODOS AL MISMO TIEMPO CALCULO 1 Y LOS DEMAS COMENTALOS (Importante IIMPORTANTE)
-// Lista de valores NDVI para percentiles
+// (Importante IIMPORTANTE)
+//PASOS en RecomendaciónParcelas esta todo el código terminado corre el código 
+//Ahora Si se quiere validar de donde saque el valor de los percentiles correr CalcularPercentiles.js (CALUVLAR PERCENTIL POR PERCENTILES LOS DEMAS COMENTARLOS )
+// 
 var sampleList = sample.aggregate_array('NDVI');
 
 // Percentiles
